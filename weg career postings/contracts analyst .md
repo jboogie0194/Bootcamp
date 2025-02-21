@@ -3,7 +3,6 @@ Position Overview
 We are seeking a Contracts Analyst to join our growing U.S. team for Specialty Transformers. In this role, you will be responsible for ensuring customer satisfaction, managing orders, and representing WEG at various events.
 
 
-
 Responsibilities
 
 Order Management:
