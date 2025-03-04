@@ -1,0 +1,1 @@
+alert("weeee");type=module

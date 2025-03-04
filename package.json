@@ -1,0 +1,31 @@
+{
+  "name": "bootcamp",
+  "version": "1.0.0",
+  "description": "bootcamp",
+  "main": "index.js",
+
+  "scripts": {
+    
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview",
+
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jboogie0194/Bootcamp.git"
+  },
+  "author": "jboogie",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jboogie0194/Bootcamp/issues"
+  },
+  "homepage": "https://github.com/jboogie0194/Bootcamp#readme",
+  "dependencies": {
+    "bootstrap": "^5.3.3"
+  },
+  "devDependencies": {
+    "vite": "^6.2.0"
+  }
+}
