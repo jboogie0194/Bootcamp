@@ -3,13 +3,10 @@
   "version": "1.0.0",
   "description": "bootcamp",
   "main": "index.js",
-
   "scripts": {
-    
     "dev": "vite",
     "build": "vite build",
     "preview": "vite preview",
-
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
@@ -23,6 +20,7 @@
   },
   "homepage": "https://github.com/jboogie0194/Bootcamp#readme",
   "dependencies": {
+    "@astrojs/netlify": "^6.2.3",
     "bootstrap": "^5.3.3"
   },
   "devDependencies": {
